@@ -3,6 +3,12 @@
 This project contains a Python script that automatically scans directories for old log files and safely deletes them.
 It’s designed with **DevOps practices in mind**: automation, observability, safety, and CI/CD compatibility.
 
+
+
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![DevOps](https://img.shields.io/badge/DevOps-ready-success.svg)
+
 ---
 
 ## 📜 What This Script Does
