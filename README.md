@@ -1,4 +1,4 @@
-# 🧹 Log Cleaner Script — DevOps Python Tool
+# 🧹 Log Cleaner Script: DevOps Python Tool
 
 This project contains a Python script that automatically scans directories for old log files and safely deletes them.
 It’s designed with **DevOps practices in mind**: automation, observability, safety, and CI/CD compatibility.
